@@ -1,0 +1,1 @@
+This dbmaster plugin validates a sitemap
