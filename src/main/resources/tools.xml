@@ -1,0 +1,12 @@
+<tools>
+    <tool id="sitemap-validator" title="Sitemap validator">
+        <description>This dbmaster plugin validates a sitemap</description>
+
+        <parameters>
+            <parameter name="p_url"   title="Url"     type="string" required="true" width="300" />
+        </parameters>
+
+        <output  script="sitemap-validator.groovy" type="html" />
+    </tool>
+
+</tools>
